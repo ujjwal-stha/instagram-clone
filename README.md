@@ -20,7 +20,7 @@ Instagram clone app created in React with dependencies such as material-ui and r
 
 Clone this repository
 
-- $ git clone
+- $ git clone https://github.com/ujjwal-stha/instagram-clone.git
 
 Go into the repository
 
